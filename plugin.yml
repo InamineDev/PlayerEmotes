@@ -1,0 +1,126 @@
+name: Emotes
+author: Inamine
+description: Share your emotions in chat!
+website: https://www.spigotmc.org/resources/player-emotes.22513/
+main: me.inamine.Emotes
+version: 1.6
+commands:
+    em:
+        description: Opens emote menu
+        usage: /<command>
+    emotes:
+        description: Info/help
+        usage: /<command>
+    highfive:
+        description: You highfive!
+        usage: /<command> [player]
+    hug:
+        description: You hug!
+        usage: /<command> [player]
+    flirt:
+        description: You flirt!
+        usage: /<command> [player]
+    dance:
+        description: You dance!
+        usage: /<command> [player]
+    smile:
+        description: You smile!
+        usage: /<command> [player]
+    raspberry:
+        description: You raspberry!
+        usage: /<command> [player]
+    thumbsup:
+        description: You give the thumbs up!
+        usage: /<command> [player]
+    applaud:
+        description: You applaud!
+        usage: /<command> [player]
+    bark:
+        description: You bark!
+        usage: /<command> [player]
+    beg:
+        description: You beg!
+        usage: /<command> [player]
+    bow:
+        description: You bow!
+        usage: /<command> [player]
+    cheer:
+        description: You cheer!
+        usage: /<command> [player]
+    cry:
+        description: You cry!
+        usage: /<command> [player]
+    eat:
+        description: You eat!
+        usage: /<command> [player]
+    greet:
+        description: You greet!
+        usage: /<command> [player]
+    poke:
+        description: You poke!
+        usage: /<command> [player]
+    kiss:
+        description: You kiss!
+        usage: /<command> [player]
+    slap:
+        description: You slap!
+        usage: /<command> [player]
+    wink:
+        description: You wink!
+        usage: /<command> [player]
+    laugh:
+        description: You laugh!
+        usage: /<command> [player]
+    emote:
+        usage: /<command> <emote> [player]
+permissions:
+    emotes.reload:
+        default: op
+    emotes.menu:
+        default: op
+    emotes.cooldown.bypass:
+        default: op
+    emotes.list:
+        default: op
+    emotes.hear:
+        default: op
+    emotes.use.highfive:
+        default: op
+    emotes.use.kiss:
+        default: op
+    emotes.use.slap:
+        default: op
+    emotes.use.poke:
+        default: op
+    emotes.use.greet:
+        default: op
+    emotes.use.cry:
+        default: op
+    emotes.use.cheer:
+        default: op
+    emotes.use.bow:
+        default: op
+    emotes.use.beg:
+        default: op
+    emotes.use.bark:
+        default: op
+    emotes.use.applaud:
+        default: op
+    emotes.use.thumbsup:
+        default: op
+    emotes.use.raspberry:
+        default: op
+    emotes.use.smile:
+        default: op
+    emotes.use.flirt:
+        default: op
+    emotes.use.hug:
+        default: op
+    emotes.use.wink:
+        default: op
+    emotes.use.laugh:
+        default: op
+    emotes.use.eat:
+        default: op
+    emotes.use.dance:
+        default: op
